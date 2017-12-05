@@ -1,5 +1,5 @@
 # Color Game
-Play it here:
+Play it here!
 
 
 https://ethanblumenthal.github.io/color-game/
